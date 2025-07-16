@@ -14,9 +14,8 @@
   "author": "Kraots",
   "license": "ISC",
   "dependencies": {
-    "@google/genai": "^1.9.0",
     "@google/generative-ai": "^0.24.1",
     "body-parser": "^2.2.0",
-    "express": "^5.1.0"
+    "express": "^4.21.2"
   }
 }
